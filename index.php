@@ -35,7 +35,7 @@ type="application/x-javascript"> addEventListener("load", function() { setTimeou
 <div class="banner-top">
 			<div class="social-bnr-agileits">
 				<ul class="social-icons3">
-								<li><a href="https://www.facebook.com/badhondas3330" class="fa fa-facebook icon-border facebook"> </a></li>
+								<li><a href="https://www.facebook.com/antor2000" class="fa fa-facebook icon-border facebook"> </a></li>
 								<li><a href="https://twitter.com/" class="fa fa-twitter icon-border twitter"> </a></li>
 								<li><a href="https://plus.google.com/u/0/" class="fa fa-google-plus icon-border googleplus"> </a></li> 
 							</ul>
@@ -43,7 +43,7 @@ type="application/x-javascript"> addEventListener("load", function() { setTimeou
 			<div class="contact-bnr-w3-agile">
 				<ul>
 					<li><i class="fa fa-envelope" aria-hidden="true"></i><a href="mailto:info@example.com">tourdebangladesh@gmail.com</a></li>
-					<li><i class="fa fa-phone" aria-hidden="true"></i>+880177-5222117</li>	
+					<li><i class="fa fa-phone" aria-hidden="true"></i>+8801628823508</li>	
 					<li class="s-bar">
 						<div class="search">
 							<input class="search_box" type="checkbox" id="search_box">
@@ -803,12 +803,12 @@ h3 {
 								<i class="fa fa-star" aria-hidden="true"></i>
 								<i class="fa fa-star" aria-hidden="true"></i>
 								<i class="fa fa-star" aria-hidden="true"></i>
-								REVIRE REPORT
+								Reviewer REPORT
 								</h4>
 								<p>IT WAS A GREAT EXPERIENCE WITH "Tour De Bangladesh". 
 									THIS IS AN ADVANCED TOUR MANAGEMENT SITE EVER MET.
 									ALL THE BEST WISHES FOR YOU GUYS. </p>
-								<h5>Badhon</h5>
+								<h5>Antor Sharkar</h5>
 								<p>Dhaka</p>
 							</div>
 							<div class="clearfix"> </div>
@@ -826,12 +826,12 @@ h3 {
 								<i class="fa fa-star" aria-hidden="true"></i>
 								<i class="fa fa-star" aria-hidden="true"></i>
 								<i class="fa fa-star-o" aria-hidden="true"></i>
-								REVIRE REPORT
+								Reviewer REPORT
 								</h4>
 								<p>IT WAS A GREAT EXPERIENCE WITH "Tour De Bangladesh". 
 									THIS IS AN ADVANCED TOUR MANAGEMENT SITE EVER MET.
 									ALL THE BEST WISHES FOR YOU GUYS. </p>
-								<h5>Sourav</h5>
+								<h5>Ashik Ahammad</h5>
 								<p>DHAKA</p>
 							</div>
 							<div class="clearfix"> </div>
@@ -849,12 +849,12 @@ h3 {
 								<i class="fa fa-star" aria-hidden="true"></i>
 								<i class="fa fa-star" aria-hidden="true"></i>
 								<i class="fa fa-star-o" aria-hidden="true"></i>
-								REVIRE REPORT
+								Reviewer REPORT
 								</h4>
 								<p>IT WAS A GREAT EXPERIENCE WITH "Tour De Bangladesh". 
 									THIS IS AN ADVANCED TOUR MANAGEMENT SITE EVER MET.
 									ALL THE BEST WISHES FOR YOU GUYS. </p>
-								<h5>Jasia</h5>
+								<h5>Afsar Ali Asif</h5>
 								<p>Dhaka</p>
 							</div>
 							<div class="clearfix"> </div>
@@ -872,7 +872,7 @@ h3 {
 								<i class="fa fa-star" aria-hidden="true"></i>
 								<i class="fa fa-star-o" aria-hidden="true"></i>
 								<i class="fa fa-star-o" aria-hidden="true"></i>
-								REVIRE REPORT
+								Reviewer REPORT
 								</h4>
 								<p>IT WAS A GREAT EXPERIENCE WITH "Tour De Bangladesh". 
 									THIS IS AN ADVANCED TOUR MANAGEMENT SITE EVER MET.
@@ -990,8 +990,8 @@ h3 {
 		</div>
 		<div class="col-lg-6 col-md-6 col-sm-6 contact-w3-agile1" data-aos="flip-right">
 			<h4>Connect With Us</h4>
-			<p class="contact-agile1"><strong>Phone :</strong>+8801775222117</p>
-			<p class="contact-agile1"><strong>Email :</strong> <a href="mailto:name@example.com">badhondas49@gmail.com</a></p>
+			<p class="contact-agile1"><strong>Phone :</strong>+8801628823508</p>
+			<p class="contact-agile1"><strong>Email :</strong> <a href="mailto:name@example.com">tourbangladesh@gmail.com</a></p>
 			<p class="contact-agile1"><strong>Address :</strong> DAFFODIL SMART CITY, ASHULIA, DHAKA</p>
 																
 			<div class="social-bnr-agileits footer-icons-agileinfo">
@@ -1009,7 +1009,7 @@ h3 {
 </section>
 <!-- /contact -->
 			<div class="copy">
-		        <p>© 2023 Tour De Bangladesh . All Rights Reserved | Design by <a href="index.php">Badhon</a> </p>
+		        <p>© 2023 Tour De Bangladesh . All Rights Reserved | Design by <a href="index.php">Team Tour De Bangladesh</a> </p>
 		    </div>
 <!--/footer -->
 <!-- js -->
